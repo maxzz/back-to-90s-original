@@ -1,0 +1,13 @@
+{
+  "name": "back-to-90s-original",
+  "version": "1.0.0",
+  "description": "back-to-90s assets",
+  "author": "Max Zakharzhevskiy",
+  "license": "ISC",
+  "keywords": ["assets", "back-to-90s"],
+  "packageManager": "pnpm@10.15.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
